@@ -1,9 +1,9 @@
 const projects = [
   {
     id: 1,
-    name: "Dopefolio",
+    name: "A Simple Todo Web App",
     description:
-      "Dopefolio is a successful Open-Source project that I created which have been featured on some of the biggest tech sites like CSS-Tricks, Hostinger, etc & used by thousands of developers globally",
+      "This is a user-friendly web application designed to streamline your daily tasks and help you stay organized. With its clean and intuitive interface, the app empowers users to manage their to-do lists efficiently. This project showcases my skills as a full stack web developer and demonstrates my proficiency in creating functional and visually appealing web applications.",
     image: "/src/assets/dopefolio.jpeg",
   },
   {
