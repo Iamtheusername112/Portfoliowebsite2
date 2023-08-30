@@ -32,7 +32,7 @@ const Projects = () => {
                 <p className="text-lg text-[#666] leading-6 mb-6">
                   {project.description}
                 </p>
-                <button className="btn py-3 px-7">Case Study</button>
+                <button className="btn py-3 px-7">Project</button>
               </div>
             </motion.div>
           </div>

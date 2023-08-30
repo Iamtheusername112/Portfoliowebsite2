@@ -33,11 +33,11 @@ const About = () => {
           <h4 className="text-2xl font-bold mb-8">Get to know me!</h4>
           <div className="md:w-10/12 text-lg text-[#666] mb-8">
             <p className="mb-5">
-              I'm a <strong>dedicated Full Stack Web Developer,</strong>
+              I'm a <strong>dedicated Full Stack Web Developer, </strong>
               proficient in crafting both frontend and backend solutions for
               Websites and Web Applications, driving the overall success of the
               product. Explore some of my projects in the
-              <strong>Projects</strong> section.
+              <strong> Projects</strong> section.
             </p>
 
             <p className="mb-5">
@@ -51,7 +51,7 @@ const About = () => {
               I'm open to <strong>Job</strong> opportunities where I can
               contribute, learn and grow. If you have a good opportunity that
               matches my skills and experience then don't hesitate to
-              <strong>contact</strong> me.
+              <strong> contact</strong> me.
             </p>
           </div>
 
