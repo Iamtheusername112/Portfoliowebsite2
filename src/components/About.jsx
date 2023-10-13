@@ -37,7 +37,7 @@ const About = () => {
               proficient in crafting both frontend and backend solutions for
               Websites and Web Applications, driving the overall success of the
               product. Explore some of my projects in the
-              <strong> Projects</strong> section.
+              <strong> Projects </strong> section.
             </p>
 
             <p className="mb-5">
